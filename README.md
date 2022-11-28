@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngetich710
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Mathematics with Computing
+- 🌱 I’m currently studying Bsc Mathematics with Computing
 - 💞️ I’m looking to collaborate on the platform
 - 📫 How to reach me ngetichcode@gmail.com
 
