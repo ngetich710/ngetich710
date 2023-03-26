@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ngetich710
+- 👋 Hi, I’m @ngetich
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently studying Bsc Mathematics with Computing
 - 💞️ I’m looking to collaborate on the platform
